@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Birthday-Assignment/static/css/main.c540c4d6.css",
+    "main.js": "/Birthday-Assignment/static/js/main.c902a41f.js",
+    "static/media/logo.svg": "/Birthday-Assignment/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Birthday-Assignment/index.html",
+    "main.c540c4d6.css.map": "/Birthday-Assignment/static/css/main.c540c4d6.css.map",
+    "main.c902a41f.js.map": "/Birthday-Assignment/static/js/main.c902a41f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c540c4d6.css",
+    "static/js/main.c902a41f.js"
+  ]
+}
